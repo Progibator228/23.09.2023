@@ -12,6 +12,6 @@ System.Console.WriteLine("Первое число ");
 int N = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Второе число");
 int M = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine(A(n,m));
+System.Console.WriteLine(A(N,M));
 
 
